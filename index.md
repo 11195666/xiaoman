@@ -1,4 +1,4 @@
-# 关于小满
+# 关于小满 {docsify-ignore-all}
 
 
 ## 简介
