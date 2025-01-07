@@ -1,14 +1,14 @@
 # 联系我 {docsify-ignore-all}
 
 
->社交平台
+>社交联系
 <div style="display: flex; justify-content: space-between;">
 <img src="https://blog.tengzhou.ren/lianxi/weixin.jpeg" style="width: 30%; height: auto;">   
 <img src="https://blog.tengzhou.ren/lianxi/qq.jpeg" style="width: 30%; height: auto;">   
 <img src="https://blog.tengzhou.ren/lianxi/gzh.jpeg" style="width: 30%; height: auto;"> 
 </div>
 
->联系方式
+>其他平台
 
 企业微信：[微我一下](https://work.weixin.qq.com/kfid/kfcb0f1392eaca47852)  
 微博：[博我一下](https://weibo.com/u/3991097969)  
